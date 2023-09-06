@@ -10,18 +10,6 @@
       "proName": "TVC:DXY"
     },
     {
-      "description": "S&P Futures",
-      "proName": "CME_MINI:ES1!"
-    },
-    {
-      "description": "Nasdaq Futures",
-      "proName": "CME_MINI:NQ1!"
-    },
-    {
-      "description": "Dow Jones Futures",
-      "proName": "CBOT_MINI:YM1!"
-    },
-    {
       "description": "Euro/USD",
       "proName": "OANDA:EURUSD"
     },

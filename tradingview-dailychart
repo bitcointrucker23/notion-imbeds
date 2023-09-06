@@ -1,0 +1,27 @@
+<!-- TradingView Widget BEGIN -->
+<div class="tradingview-widget-container">
+  <div id="tradingview_ce645"></div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/" rel="noopener nofollow" target="_blank"><span class="blue-text">Track all markets on TradingView</span></a></div>
+  <script type="text/javascript" src="https://s3.tradingview.com/tv.js"></script>
+  <script type="text/javascript">
+  new TradingView.widget(
+  {
+  "autosize": true,
+  "symbol": "CME_MINI:NQ1!",
+  "interval": "D",
+  "timezone": "America/New_York",
+  "theme": "light",
+  "style": "1",
+  "locale": "en",
+  "enable_publishing": true,
+  "backgroundColor": "rgba(255, 255, 255, 1)",
+  "withdateranges": true,
+  "hide_side_toolbar": false,
+  "allow_symbol_change": true,
+  "hide_volume": true,
+  "container_id": "tradingview_ce645"
+}
+  );
+  </script>
+</div>
+<!-- TradingView Widget END -->
